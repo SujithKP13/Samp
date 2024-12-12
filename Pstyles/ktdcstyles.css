@@ -322,6 +322,7 @@ button {
 }
 .row1{
     margin-top: 20px;
+    padding: 20px
     display: grid;
     background-color: rgb(215, 213, 213);
     margin: 20px 20px;
